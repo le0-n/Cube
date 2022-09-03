@@ -11,7 +11,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background: radial-gradient(black, red);
+    background: radial-gradient(black, #ccc);
     overflow: hidden;
 }
 #img
